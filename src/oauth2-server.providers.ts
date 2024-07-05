@@ -1,4 +1,4 @@
-import * as OAuth2Server from '@node-oauth/oauth2-server';
+import * as OAuth2Server from '@santi_fae/oauth2-node-server';
 import { Provider } from '@nestjs/common';
 import { OAuth2ServerModuleOptions } from './interfaces';
 import {

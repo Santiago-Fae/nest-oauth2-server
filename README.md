@@ -5,14 +5,14 @@
 
 Complete, compliant and well tested module for implementing an OAuth2 server with [Nest](https://github.com/nestjs/nest) in [Node.js](https://nodejs.org).
 
-This is the Nest module wrapper for [@node-oauth/oauth2-server](https://github.com/node-oauth/node-oauth2-server).
+This is the Nest module wrapper for [@santi_fae/oauth2-node-server](https://github.com/node-oauth/node-oauth2-server).
 
 ## Installation
 
 To begin using it, we first install the required dependencies.
 
 ```bash
-$ npm install --save nest-oauth2-server @node-oauth/oauth2-server
+$ npm install --save nest-oauth2-server @santi_fae/oauth2-node-server
 ```
 
 ## Getting started

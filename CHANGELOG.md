@@ -7,7 +7,7 @@
 
 ### Features
 
-* replace oauth2-server with @node-oauth/oauth2-server ([#1](https://github.com/chunkai1312/nest-oauth2-server/issues/1)) ([0b3bb58](https://github.com/chunkai1312/nest-oauth2-server/commit/0b3bb582c96a4a5927183860feefd4dea8dc4c39))
+* replace oauth2-server with @santi_fae/oauth2-node-server ([#1](https://github.com/chunkai1312/nest-oauth2-server/issues/1)) ([0b3bb58](https://github.com/chunkai1312/nest-oauth2-server/commit/0b3bb582c96a4a5927183860feefd4dea8dc4c39))
 
 ## [1.1.3](https://github.com/chunkai1312/nest-oauth2-server/compare/v1.1.2...v1.1.3) (2023-07-01)
 

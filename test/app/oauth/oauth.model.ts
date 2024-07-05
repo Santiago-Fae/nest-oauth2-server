@@ -6,7 +6,7 @@ import {
   User,
   Token,
   Falsey,
-} from '@node-oauth/oauth2-server';
+} from '@santi_fae/oauth2-node-server';
 
 @Injectable()
 export class OAuthModel implements AuthorizationCodeModel {
